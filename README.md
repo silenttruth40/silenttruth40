@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silenttruth40
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : www.linkedin.com/in/chiranjeev-anil-shekokar-3366a3313
 - 😄 Pronouns: (He/Him)
